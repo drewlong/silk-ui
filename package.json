@@ -57,5 +57,10 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "nanoid": "^2.1.10",
+    "s": "^1.0.0"
+  }
 }

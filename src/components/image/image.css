@@ -1,0 +1,42 @@
+.silk_image{
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+}
+.greyscale{
+  filter: grayscale(100%);
+}
+.greyscale_blur{
+  filter: blur(1px) grayscale(100%);
+}
+.greyscale_blur_hov{
+  transition: filter 0.25s;
+}
+.greyscale_blur_hov:hover{
+  filter: blur(1px) grayscale(100%);
+}
+.greyscale_hov{
+  transition: filter 0.25s;
+}
+.greyscale_hov:hover{
+  filter: grayscale(100%);
+}
+.blur{
+  filter: blur(2px);
+}
+.blur_hov{
+  transition: filter 0.25s;
+}
+.blur_hov:hover{
+  filter: blur(2px);
+}
+.round{
+  border-radius: 100%
+}
+.clear{
+  transition: filter 0.25s;
+}
+.clear:hover{
+  filter: none;
+}

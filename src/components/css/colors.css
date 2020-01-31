@@ -1,0 +1,252 @@
+/* Font Colors */
+.red{
+  color: #e53935
+}
+.pink{
+  color: #e91e63
+}
+.purple{
+  color: #9c27b0
+}
+.deep_purple{
+  color: #673ab7
+}
+.indigo{
+  color: #3f51b5
+}
+.blue{
+  color: #1e88e5
+}
+.light_blue{
+  color: #03a9f4
+}
+.cyan{
+  color: #00bcd4
+}
+.teal{
+  color: #009688
+}
+.green{
+  color: #4caf50
+}
+.light_green{
+  color: #8bc34a
+}
+.lime{
+  color: #cddc39
+}
+.yellow{
+  color: #ffeb3b
+}
+.amber{
+  color: #ffc107
+}
+.orange{
+  color: #ff9800
+}
+.deep_orange{
+  color: #ff5722
+}
+.brown{
+  color: #6d4c41
+}
+.grey{
+  color: #9e9e9e
+}
+.blue_grey{
+  color: #607d8b
+}
+
+/* Plain Backgrounds */
+.bg_red{
+  background-color: #e53935
+}
+.bg_pink{
+  background-color: #e91e63
+}
+.bg_purple{
+  background-color: #9c27b0
+}
+.bg_deep_purple{
+  background-color: #673ab7
+}
+.bg_indigo{
+  background-color: #3f51b5
+}
+.bg_blue{
+  background-color: #1e88e5
+}
+.bg_light_blue{
+  background-color: #03a9f4
+}
+.bg_cyan{
+  background-color: #00bcd4
+}
+.bg_teal{
+  background-color: #009688
+}
+.bg_green{
+  background-color: #4caf50
+}
+.bg_light_green{
+  background-color: #8bc34a
+}
+.bg_lime{
+  background-color: #cddc39
+}
+.bg_yellow{
+  background-color: #ffeb3b
+}
+.bg_amber{
+  background-color: #ffc107
+}
+.bg_orange{
+  background-color: #ff9800
+}
+.bg_deep_orange{
+  background-color: #ff5722
+}
+.bg_brown{
+  background-color: #6d4c41
+}
+.bg_grey{
+  background-color: #9e9e9e
+}
+.bg_blue_grey{
+  background-color: #607d8b
+}
+
+/* Hovers */
+.bg_red_hov{
+  background-color: #e53935;
+  transition: background-color 0.25s;
+}
+.bg_pink_hov{
+  background-color: #e91e63;
+  transition: background-color 0.25s;
+}
+.bg_purple_hov{
+  background-color: #9c27b0;
+  transition: background-color 0.25s;
+}
+.bg_deep_purple_hov{
+  background-color: #673ab7;
+  transition: background-color 0.25s;
+}
+.bg_indigo_hov{
+  background-color: #3f51b5;
+  transition: background-color 0.25s;
+}
+.bg_blue_hov{
+  background-color: #1e88e5;
+  transition: background-color 0.25s;
+}
+.bg_light_blue_hov{
+  background-color: #03a9f4;
+  transition: background-color 0.25s;
+}
+.bg_cyan_hov{
+  background-color: #00bcd4;
+  transition: background-color 0.25s;
+}
+.bg_teal_hov{
+  background-color: #009688;
+  transition: background-color 0.25s;
+}
+.bg_green_hov{
+  background-color: #4caf50;
+  transition: background-color 0.25s;
+}
+.bg_light_green_hov{
+  background-color: #8bc34a;
+  transition: background-color 0.25s;
+}
+.bg_lime_hov{
+  background-color: #cddc39;
+  transition: background-color 0.25s;
+}
+.bg_yellow_hov{
+  background-color: #ffeb3b;
+  transition: background-color 0.25s;
+}
+.bg_amber_hov{
+  background-color: #ffc107;
+  transition: background-color 0.25s;
+}
+.bg_orange_hov{
+  background-color: #ff9800;
+  transition: background-color 0.25s;
+}
+.bg_deep_orange_hov{
+  background-color: #ff5722;
+  transition: background-color 0.25s;
+}
+.bg_brown_hov{
+  background-color: #6d4c41;
+  transition: background-color 0.25s;
+}
+.bg_grey_hov{
+  background-color: #9e9e9e;
+  transition: background-color 0.25s;
+}
+.bg_blue_grey_hov{
+  background-color: #607d8b;
+  transition: background-color 0.25s;
+}
+.bg_red_hov:hover{
+  background-color: #d32f2f
+}
+.bg_pink_hov:hover{
+  background-color: #c2185b
+}
+.bg_purple_hov:hover{
+  background-color: #7b1fa2
+}
+.bg_deep_purple_hov:hover{
+  background-color: #512da8
+}
+.bg_indigo_hov:hover{
+  background-color: #303f9f
+}
+.bg_blue_hov:hover{
+  background-color: #1565c0
+}
+.bg_light_blue_hov:hover{
+  background-color: #0288d1
+}
+.bg_cyan_hov:hover{
+  background-color: #0097a7
+}
+.bg_teal_hov:hover{
+  background-color: #00796b
+}
+.bg_green_hov:hover{
+  background-color: #388e3c
+}
+.bg_light_green_hov:hover{
+  background-color: #689f38
+}
+.bg_lime_hov:hover{
+  background-color: #afb42b
+}
+.bg_yellow_hov:hover{
+  background-color: #fbc02d
+}
+.bg_amber_hov:hover{
+  background-color: #ffa000
+}
+.bg_orange_hov:hover{
+  background-color: #f57c00
+}
+.bg_deep_orange_hov:hover{
+  background-color: #e64a19
+}
+.bg_brown_hov:hover{
+  background-color: #4e342e
+}
+.bg_grey_hov:hover{
+  background-color: #616161
+}
+.bg_blue_grey_hov:hover{
+  background-color: #455a64
+}
